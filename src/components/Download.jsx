@@ -69,7 +69,7 @@ export default function Download() {
             {/* Buttons */}
             <div style={{ display: 'flex', gap: 14, justifyContent: 'center', flexWrap: 'wrap', marginBottom: 20 }}>
               <a
-                href="/totalk.apk"
+                href="https://github.com/EgoshinVA/totalk-site/releases/download/v1.0.0/totalk.apk"
                 download
                 style={{
                   display: 'inline-flex', alignItems: 'center', gap: 10,
